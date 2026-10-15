@@ -34,6 +34,5 @@ geo_places,"OpenStreetMap places, GAZA_E layer 32",https://services3.arcgis.com/
 geo_outline,"Gaza Strip boundary, GAZA_E layer 35",https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer/35,2026-10-15,,stored_document_or_data,projects/redesign/assets/gaza_ocha_adm1.geojson
 geo_metadata,GAZA_E service metadata,https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer?f=pjson,2026-10-15,,stored_document_or_data,projects/redesign/assets/arcgis_metadata.json
 geoboundaries,"geoBoundaries PSE ADM1, alternative boundary data",https://www.geoboundaries.org/api/current/gbOpen/PSE/ADM1/,2026-10-15,,stored_document_or_data,projects/redesign/assets/pse_adm1.geojson
-lucide,Lucide icon sources and license,https://lucide.dev/license,2026-10-15,1–12,stored_document_or_data,projects/redesign/assets/icons/LICENSE
 fluter_map,"fluter/bpb Gaza map, considered but not used in final deck",https://www.fluter.de/gazastreifen-geschichte,2026-10-15,,stored_document_or_data,projects/redesign/assets/map_fluter.jpg
 ocha_snapshot,"OCHA Reported Impact Snapshot, 16 July 2025",https://www.ochaopt.org/sites/default/files/Gaza_Reported_Impact_Snapshot_16_July_2025.pdf,2026-10-14,,stored_document_or_data,projects/original/assets/ocha_snapshot_2025-07-16.pdf

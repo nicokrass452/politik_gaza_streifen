@@ -1,9 +1,8 @@
-# Data notes
+# Hinweise zu den Zahlen
 
-- UNOSAT building data are a historical snapshot based on imagery dated 8 July 2025, version 1, published 6 August 2025. The count 192,812 includes destroyed, severely damaged, moderately damaged and possibly damaged structures. The reported 78% is rounded.
-- Governorate counts are absolute counts, not within-governorate damage percentages. They must not be read as current control zones or individual damage locations. The supplied dataset contains five governorate polygons and city points, not the full UNOSAT building-level damage dataset.
-- The population estimate is historical (OCHA, July 2024). The displayed density is a rounded arithmetic average, not a population-density raster.
-- Boundary areas are checked in EPSG:32636 (UTM 36N). The saved geometry area is about 364.88 km², consistent with the rounded 365 km². The geographic map is for orientation and does not show current access routes or control zones.
-- The presentation's mixed AKUF classification and its final judgement are explicitly the group's analytical interpretation, not an official AKUF case code.
-- The archive preserves the prepared presentation and research snapshots; it does not silently update the facts to a later date.
-- Every original research source has a registry entry. Full PDFs and geographic files are included where available; other source pages are represented by citations and the prepared notes, not full offline article copies.
+- Die Gebäudeschäden stammen von UNOSAT, Produkt 4165, Version 1. Die Satellitenbilder sind vom 8. Juli 2025, veröffentlicht am 6. August 2025. Gezählt wurden 192.812 Gebäude: zerstört, schwer beschädigt, mäßig beschädigt und möglicherweise beschädigt. Die Angabe „rund 78 Prozent“ ist die gerundete Zahl von UNOSAT.
+- Die Zahlen je Gouvernement sind absolute Anzahlen, keine Prozentwerte. Die Karte zeigt keine Frontlinien und keine einzelnen zerstörten Häuser. Im Projekt liegen die fünf Gouvernements und die Städte, nicht der komplette UNOSAT-Datensatz auf Gebäudeebene.
+- Die Einwohnerzahl (ca. 2,1 Millionen) ist die Schätzung von OCHA vom Juli 2024. Die 5.750 Menschen pro Quadratkilometer sind der Durchschnitt aus Einwohnern geteilt durch 365 km², keine Karte der Bevölkerungsdichte.
+- Die Fläche der Grenzen haben wir in der Projektion UTM 36N nachgerechnet. Sie liegt bei etwa 364,9 km² und passt damit zu den gerundeten 365 km². Die Übersichtskarte dient nur der Orientierung.
+- Die Einordnung als Mischtyp und das Fazit sind unsere eigene Auswertung, keine offizielle Codierung der AKUF.
+- Die Zahlen sind der Stand unserer Recherche (14. und 15. Oktober 2026) und werden nicht stillschweigend aktualisiert.
