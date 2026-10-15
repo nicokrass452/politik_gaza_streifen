@@ -1,0 +1,13 @@
+slide,speaker,target_seconds,original_source_ids
+1,[Name 1],45,"akuf,swp"
+2,[Name 1],70,"map,bpb,swp"
+3,[Name 1],65,"charter,icrc,bpb"
+4,[Name 1],60,"history,bpb,occupation,swp"
+5,[Name 2],60,"bpb,swp,qatar"
+6,[Name 2],70,"charter,icrc,icrc2,occupation,icj,icc,icc2,us,iran,qatar"
+7,[Name 2],60,"swp,current,unosat,unosatpdf"
+8,[Name 2],50,"akuf,occupation,swp"
+9,[Name 3],80,"veto1,veto2,r2728,r2735,r2803,r2803ex,qatar,unrwa,ocha"
+10,[Name 3],60,"hostages,r2735,r2803ex,icrc,swp,peace"
+11,[Name 3],85,"galtung,peace,current,r2803ex,swp"
+12,[Name 3],15,"akuf,bpb,history,peace,galtung,swp,qatar,map,unosat,unosatpdf,unsc,r2728,r2735,r2803,r2803ex,veto1,veto2,charter,icj,occupation,icc,icc2,icrc,icrc2,us,iran,ocha,unrwa,current,hostages"

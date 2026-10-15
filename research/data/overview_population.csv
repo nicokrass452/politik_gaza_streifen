@@ -1,0 +1,4 @@
+metric,value,unit,data_period,qualification,source_id
+population_estimate,2100000,people,2024-07,"rounded OCHA estimate, not a current population distribution",map
+area,365,km2,2024-07,rounded geographic area,map
+average_density_displayed,5750,people_per_km2,2024-07,"rounded population/area calculation, not local density",map

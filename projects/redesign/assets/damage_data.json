@@ -1,0 +1,30 @@
+{
+  "source": "UNOSAT product 4165, 8 July 2025, version 1",
+  "counts_by_pcode": {
+    "PS0255": 40192,
+    "PS0260": 48181,
+    "PS0265": 18103,
+    "PS0270": 51219,
+    "PS0275": 35117
+  },
+  "categories": [
+    [
+      "Zerstört",
+      102067
+    ],
+    [
+      "Schwer beschädigt",
+      17421
+    ],
+    [
+      "Mäßig beschädigt",
+      41895
+    ],
+    [
+      "Mögliche Schäden",
+      31429
+    ]
+  ],
+  "rounded_percent_affected": 78,
+  "total": 192812
+}

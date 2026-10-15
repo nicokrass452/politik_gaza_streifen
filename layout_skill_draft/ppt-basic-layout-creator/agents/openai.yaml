@@ -1,0 +1,4 @@
+interface:
+  display_name: "Basic Slide Layout Creator"
+  short_description: "Clean slide layouts with cohesive color palettes"
+  default_prompt: "Use $ppt-basic-layout-creator to create a clean presentation using one consistent palette and the five foundational layouts."

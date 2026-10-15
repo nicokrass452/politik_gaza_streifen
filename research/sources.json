@@ -1,0 +1,344 @@
+[
+  {
+    "id": "akuf",
+    "title": "AKUF: Kriegsdefinition und Kriegstypologie",
+    "url": "https://www.wiso.uni-hamburg.de/fachbereich-sowi/ueber-den-fachbereich/fachgebiete/akuf/kriegsdefinition.html",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "1,8,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "bpb",
+    "title": "bpb: Der Gazastreifen im Nahostkonflikt (15.03.2024)",
+    "url": "https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546377/der-gazastreifen-im-nahostkonflikt/",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "2,3,4,5,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "history",
+    "title": "bpb: Geschichte des Nahostkonflikts",
+    "url": "https://www.bpb.de/themen/naher-mittlerer-osten/israel/45042/geschichte-des-nahostkonflikts/",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "4,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "peace",
+    "title": "bpb: Frieden, Galtung und Senghaas",
+    "url": "https://www.bpb.de/lernen/politische-bildung/193093/frieden/?p=0",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "10,11,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "galtung",
+    "title": "bpb: Überlegungen zur Entspannung in einer pluralistischen Welt",
+    "url": "https://www.bpb.de/shop/zeitschriften/apuz/archiv/531674/ueberlegungen-zur-entspannung-in-einer-pluralistischen-welt/",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "11,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "swp",
+    "title": "SWP: Krieg in Nahost",
+    "url": "https://www.swp-berlin.org/fokusthema/krieg-in-nahost",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "1,2,4,5,7,8,10,11,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "qatar",
+    "title": "SWP: Katars Außenpolitik (2022/S 12)",
+    "url": "https://www.swp-berlin.org/10.18449/2022S12/",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "5,6,9,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "map",
+    "title": "OCHA: Gaza Strip access and movement (Juli 2024)",
+    "url": "https://www.ochaopt.org/content/gaza-strip-access-and-movement-july-2024",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "2,12",
+    "archive_representation": "stored_document_and_notes",
+    "local_files": "projects/original/assets/ocha_gaza_2024.pdf"
+  },
+  {
+    "id": "unosat",
+    "title": "UNOSAT: Gaza Strip Comprehensive Damage Assessment (08.07.2025)",
+    "url": "https://unosat.org/products/4165",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "7,12",
+    "archive_representation": "stored_document_and_notes",
+    "local_files": "projects/original/assets/unosat_2025-07-08.pdf"
+  },
+  {
+    "id": "unosatpdf",
+    "title": "UNOSAT: Originalkarte, veröffentlicht 06.08.2025, Version 1",
+    "url": "https://unosat.org/static/unosat_filesystem/4165/OCHA-OPT-027_UNOSAT_A3_Gaza_Strip_OPT_CDA_08072025.pdf",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "7,12",
+    "archive_representation": "stored_document_and_notes",
+    "local_files": "projects/original/assets/unosat_2025-07-08.pdf"
+  },
+  {
+    "id": "unsc",
+    "title": "UN-Sicherheitsrat: Resolutionen",
+    "url": "https://main.un.org/securitycouncil/en/content/resolutions-0",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "r2728",
+    "title": "UN-Sicherheitsrat: Resolution 2728 (25.03.2024)",
+    "url": "https://www.un.org/unispal/document/sc-adopted-resolution-2728-2024-demanding-for-an-immediate-ceasefire-during-the-month-of-ramadan-25mar24/",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "9,12",
+    "archive_representation": "stored_document_and_notes",
+    "local_files": "research/primary_documents/resolution_2728_2024_en.pdf"
+  },
+  {
+    "id": "r2735",
+    "title": "UN-Sicherheitsrat: Resolution 2735 (10.06.2024)",
+    "url": "https://press.un.org/en/2024/sc15723.doc.htm",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "9,10,12",
+    "archive_representation": "stored_document_and_notes",
+    "local_files": "research/primary_documents/resolution_2735_2024_en.pdf"
+  },
+  {
+    "id": "r2803",
+    "title": "UN-Sicherheitsrat: Resolution 2803 (17.11.2025)",
+    "url": "https://digitallibrary.un.org/record/4093207",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "9,12",
+    "archive_representation": "stored_document_and_notes",
+    "local_files": "research/primary_documents/resolution_2803_2025_en.pdf"
+  },
+  {
+    "id": "r2803ex",
+    "title": "Vereinte Nationen: Erläuterung der Resolution 2803",
+    "url": "https://palestine.un.org/en/305520-un-security-council-authorizes-temporary-international-force-gaza",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "9,10,11,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "veto1",
+    "title": "UN: US-Veto vom 18.10.2023",
+    "url": "https://www.un.org/unispal/document/security-council-fails-to-adopt-resolution-calling-for-humanitarian-pauses-in-israel-gaza-crisis-on-account-of-veto-by-united-states/",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "9,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "veto2",
+    "title": "UN: Russische und chinesische Vetos vom 25.10.2023",
+    "url": "https://www.un.org/unispal/document/security-council-fails-to-adopt-either-of-two-draft-resolutions-addressing-conflict-and-humanitarian-crisis-in-gaza-press-release/",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "9,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "charter",
+    "title": "UN-Charta: vollständiger Text, Artikel 27 und 51",
+    "url": "https://www.un.org/en/about-us/un-charter/full-text",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "3,6,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "icj",
+    "title": "IGH: Südafrika gegen Israel, Verfahren Nr. 192",
+    "url": "https://www.icj-cij.org/case/192",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "6,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "occupation",
+    "title": "IGH: Zusammenfassung des Gutachtens vom 19.07.2024",
+    "url": "https://www.icj-cij.org/node/204176",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "4,6,8,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "icc",
+    "title": "IStGH: Haftbefehle gegen Netanyahu und Gallant (21.11.2024)",
+    "url": "https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges?embed=true",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "6,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "icc2",
+    "title": "IStGH: Situation in Palästina, einschließlich Verfahren gegen Deif",
+    "url": "https://bridge.www.icc-cpi.int/palestine",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "6,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "icrc",
+    "title": "IKRK: Erklärung zu Gaza und Israel (09.03.2024)",
+    "url": "https://www.icrc.org/en/document/statement-gaza-and-israel-president-icrc",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "3,6,10,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "icrc2",
+    "title": "IKRK: Fragen und Antworten zu Israel und besetzten Gebieten",
+    "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "6,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "us",
+    "title": "Congressional Research Service: Abstimmungen zu Israel–Hamas",
+    "url": "https://www.congress.gov/crs-products/product/pdf/R/R48289",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "6,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "iran",
+    "title": "Congressional Research Service: Iran’s Foreign and Defense Policies",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R44017/R44017.66.pdf",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "6,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "ocha",
+    "title": "OCHA: Aufgaben der humanitären Koordination",
+    "url": "https://www.ochaopt.org/about-us/our-work",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "9,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "unrwa",
+    "title": "UNRWA: Aufgaben und Hilfsleistungen",
+    "url": "https://www.unrwa.org/what-we-do",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "9,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "current",
+    "title": "Reuters: Fortdauernde Gewalt und stockende Umsetzung (12.10.2026)",
+    "url": "https://www.reuters.com/world/middle-east/israeli-fire-kills-two-people-gaza-medics-say-2026-10-12/",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "7,11,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "hostages",
+    "title": "Bericht des Board of Peace, S/2026/418 (22.05.2026)",
+    "url": "https://www.un.org/unispal/document/implementation-of-united-nations-security-council-resolution-2803-2025-report-of-the-board-of-peace-through-the-office-of-the-high-representative-for-gaza-s-2026-418/",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "10,12",
+    "archive_representation": "citation_and_research_notes",
+    "local_files": ""
+  },
+  {
+    "id": "geo_governorates",
+    "title": "Gaza governorate boundaries, GAZA_E layer 34",
+    "url": "https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer/34",
+    "research_access_date": "2026-10-15",
+    "used_in_slides": "2,7",
+    "archive_representation": "stored_document_or_data",
+    "local_files": "projects/redesign/assets/gaza_governorates.geojson"
+  },
+  {
+    "id": "geo_places",
+    "title": "OpenStreetMap places, GAZA_E layer 32",
+    "url": "https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer/32",
+    "research_access_date": "2026-10-15",
+    "used_in_slides": "2",
+    "archive_representation": "stored_document_or_data",
+    "local_files": "projects/redesign/assets/gaza_places.geojson"
+  },
+  {
+    "id": "geo_outline",
+    "title": "Gaza Strip boundary, GAZA_E layer 35",
+    "url": "https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer/35",
+    "research_access_date": "2026-10-15",
+    "used_in_slides": "",
+    "archive_representation": "stored_document_or_data",
+    "local_files": "projects/redesign/assets/gaza_ocha_adm1.geojson"
+  },
+  {
+    "id": "geo_metadata",
+    "title": "GAZA_E service metadata",
+    "url": "https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer?f=pjson",
+    "research_access_date": "2026-10-15",
+    "used_in_slides": "",
+    "archive_representation": "stored_document_or_data",
+    "local_files": "projects/redesign/assets/arcgis_metadata.json"
+  },
+  {
+    "id": "geoboundaries",
+    "title": "geoBoundaries PSE ADM1, alternative boundary data",
+    "url": "https://www.geoboundaries.org/api/current/gbOpen/PSE/ADM1/",
+    "research_access_date": "2026-10-15",
+    "used_in_slides": "",
+    "archive_representation": "stored_document_or_data",
+    "local_files": "projects/redesign/assets/pse_adm1.geojson"
+  },
+  {
+    "id": "lucide",
+    "title": "Lucide icon sources and license",
+    "url": "https://lucide.dev/license",
+    "research_access_date": "2026-10-15",
+    "used_in_slides": "1–12",
+    "archive_representation": "stored_document_or_data",
+    "local_files": "projects/redesign/assets/icons/LICENSE"
+  },
+  {
+    "id": "fluter_map",
+    "title": "fluter/bpb Gaza map, considered but not used in final deck",
+    "url": "https://www.fluter.de/gazastreifen-geschichte",
+    "research_access_date": "2026-10-15",
+    "used_in_slides": "",
+    "archive_representation": "stored_document_or_data",
+    "local_files": "projects/redesign/assets/map_fluter.jpg"
+  },
+  {
+    "id": "ocha_snapshot",
+    "title": "OCHA Reported Impact Snapshot, 16 July 2025",
+    "url": "https://www.ochaopt.org/sites/default/files/Gaza_Reported_Impact_Snapshot_16_July_2025.pdf",
+    "research_access_date": "2026-10-14",
+    "used_in_slides": "",
+    "archive_representation": "stored_document_or_data",
+    "local_files": "projects/original/assets/ocha_snapshot_2025-07-16.pdf"
+  }
+]

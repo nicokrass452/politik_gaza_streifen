@@ -1,0 +1,54 @@
+[
+  {
+    "path": "original/ocha_gaza_2024.pdf",
+    "url": "https://www.ochaopt.org/sites/default/files/Gaza_A0_2024_july-2024.pdf",
+    "kind": "pdf"
+  },
+  {
+    "path": "original/unosat_2025-07-08.pdf",
+    "url": "https://unosat.org/static/unosat_filesystem/4165/OCHA-OPT-027_UNOSAT_A3_Gaza_Strip_OPT_CDA_08072025.pdf",
+    "kind": "pdf"
+  },
+  {
+    "path": "original/ocha_snapshot_2025-07-16.pdf",
+    "url": "https://www.ochaopt.org/sites/default/files/Gaza_Reported_Impact_Snapshot_16_July_2025.pdf",
+    "kind": "pdf"
+  },
+  {
+    "path": "geodata/gaza_governorates.geojson",
+    "url": "https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer/34/query",
+    "params": {
+      "where": "1=1",
+      "outFields": "*",
+      "outSR": 4326,
+      "f": "geojson"
+    },
+    "kind": "geojson"
+  },
+  {
+    "path": "geodata/gaza_places.geojson",
+    "url": "https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer/32/query",
+    "params": {
+      "where": "1=1",
+      "outFields": "*",
+      "outSR": 4326,
+      "f": "geojson"
+    },
+    "kind": "geojson"
+  },
+  {
+    "path": "primary_documents/resolution_2728_2024_en.pdf",
+    "url": "https://digitallibrary.un.org/record/4042189/files/S_RES_2728_%282024%29-EN.pdf",
+    "kind": "pdf"
+  },
+  {
+    "path": "primary_documents/resolution_2735_2024_en.pdf",
+    "url": "https://digitallibrary.un.org/record/4051310/files/S_RES_2735_%282024%29-EN.pdf",
+    "kind": "pdf"
+  },
+  {
+    "path": "primary_documents/resolution_2803_2025_en.pdf",
+    "url": "https://digitallibrary.un.org/record/4093207/files/S_RES_2803_%282025%29-EN.pdf",
+    "kind": "pdf"
+  }
+]

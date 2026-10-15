@@ -1,0 +1,8 @@
+python-pptx
+Pillow
+lxml
+geopandas==1.0.1
+shapely>=2.0.6
+pyproj>=3.7.0
+pyogrio>=0.10.0
+cairosvg
