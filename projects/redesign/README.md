@@ -1,34 +1,35 @@
-# Konfliktdossier Gazastreifen
+# Der Krieg im Gazastreifen – Präsentation
 
-Die Präsentation enthält 12 Folien mit deutschen Sprechernotizen und vier Folien pro Person. Die Namensplatzhalter lassen sich direkt in PowerPoint ersetzen.
+12 Folien, drei Sprecher, jeweils vier Folien. Die Sprechernotizen liegen in
+`assets/speaker_notes.json` und landen beim Bauen in den PowerPoint-Notizen.
+Die Namensplatzhalter `[Name 1]` bis `[Name 3]` vor dem Vortrag in PowerPoint ersetzen.
 
-## Grafiken und Quellen
-
-Die Karten entstehen mit GeoPandas aus geografischen Grenzdaten und tatsächlichen Ortskoordinaten. Die Verarbeitung nutzt EPSG:32636 (UTM 36N). SVGs bleiben als Vektorgrafiken in der PowerPoint erhalten; PNGs dienen als Kompatibilitätsvorschau.
-
-Die fünf Schadenswerte und vier Schadenskategorien stammen aus UNOSAT, Produkt 4165, Version 1, Bildstand 08.07.2025. Die Summe beträgt 192.812 betroffene Bauwerke. „78 %“ ist die gerundete Originalangabe und umfasst mögliche Schäden. Die Karte zeigt absolute Zahlen je Gouvernement, keine Schadensquote oder aktuelle Kontrollzonen.
-
-Grenzen: ArcGIS GAZA_E, Layer 34, OCHA-P-Codes. Orte: OSM-Daten aus GAZA_E, Layer 32. Datenzugriff: 15.10.2026. Fachquellenzugriff: 14.10.2026. Die vollständigen Belege stehen in den Foliennotizen.
-
-https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer/34
-
-https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer/32
-
-https://unosat.org/products/4165
-
-Kleine Symbole: Lucide, ISC-Lizenz, Strichfarbe angepasst. Die Lizenz liegt bei den Symbolen. OSM-Orte: © OpenStreetMap-Mitwirkende.
-
-## Neu erstellen
-
-Die gespeicherten Geodaten und Grafiken sind enthalten. Zur Erstellung ist kein erneuter Download nötig.
+## Neu bauen
 
 ```bash
 pip install -r requirements.txt
-python generate_graphics.py
-python rasterize_svgs.py
-python build_redesign.py
+python generate_graphics.py   # Karten als SVG aus den GeoJSON-Dateien
+python rasterize_svgs.py      # PNG-Versionen der Karten
+python build_redesign.py      # PowerPoint nach output/
 ```
 
-Die neue Datei erscheint unter `output/akuf_gazastreifen_neugestaltet.pptx`. Das Skript kontrolliert Folienzahl, Sprechernotizen, Bildproportionen und die Bildpositionen. Vor dem Vortrag die fertige Datei visuell prüfen.
+Wer nur Texte ändern will, braucht nur den letzten Schritt; die Karten liegen fertig in `assets/`.
 
-Für die ursprüngliche Gestaltung wurden Nimbus Roman und Nimbus Sans verwendet. Falls sie fehlen, kann PowerPoint Ersatzschriften verwenden. Die Schriften sind nicht im Projekt enthalten.
+Schrift ist Calibri. Das Balkendiagramm und die Tabelle sind normale PowerPoint-Objekte
+und lassen sich direkt bearbeiten.
+
+## Karten und Zahlen
+
+- Grenzen der Gouvernements: ArcGIS-Dienst GAZA_E, Layer 34 (OCHA-P-Codes)
+- Städte: OpenStreetMap-Punkte aus GAZA_E, Layer 32
+- Gebäudeschäden: UNOSAT, Produkt 4165, Version 1, Bildstand 8. Juli 2025.
+  Summe 192.812 betroffene Gebäude, davon 102.067 zerstört. Die 78 % sind die
+  gerundete UNOSAT-Angabe. Die Karte zeigt absolute Zahlen je Gouvernement.
+- Bevölkerung: OCHA, Juli 2024 (ca. 2,1 Mio. auf 365 km²)
+
+Geodaten abgerufen am 15.10.2026, alle anderen Quellen am 14.10.2026. Die vollständigen
+Links stehen in den Foliennotizen und auf der Quellenfolie.
+
+https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer/34
+https://services3.arcgis.com/tuNLpt6Wfhd22qmO/ArcGIS/rest/services/GAZA_E/FeatureServer/32
+https://unosat.org/products/4165

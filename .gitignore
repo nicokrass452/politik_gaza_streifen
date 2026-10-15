@@ -1,0 +1,3 @@
+projects/*/build/
+projects/*/output/
+__pycache__/

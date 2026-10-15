@@ -1,6 +1,6 @@
-# Research sources
+# Quellen
 
-Original subject research: 14 October 2026. Geographic/design research: 15 October 2026. This registry includes both used and considered sources. `citation_and_research_notes` means the full web article is not stored offline; the source URL and the prepared research notes are included.
+Fachquellen haben wir am 14. Oktober 2026 abgerufen, die Geodaten am 15. Oktober. In der Liste stehen auch Quellen, die wir angeschaut, aber am Ende nicht auf den Folien verwendet haben. „Nur Link und Notizen“ heißt: die Seite selbst liegt nicht als Datei im Projekt, der Link und unsere Notizen schon. Die maschinenlesbare Fassung ist `sources.csv`.
 
 ## akuf: AKUF: Kriegsdefinition und Kriegstypologie
 https://www.wiso.uni-hamburg.de/fachbereich-sowi/ueber-den-fachbereich/fachgebiete/akuf/kriegsdefinition.html
@@ -222,13 +222,6 @@ Research access date: 2026-10-15
 Slides: not used in the final slides
 Archive representation: stored_document_or_data
 Local files: projects/redesign/assets/pse_adm1.geojson
-
-## lucide: Lucide icon sources and license
-https://lucide.dev/license
-Research access date: 2026-10-15
-Slides: 1–12
-Archive representation: stored_document_or_data
-Local files: projects/redesign/assets/icons/LICENSE
 
 ## fluter_map: fluter/bpb Gaza map, considered but not used in final deck
 https://www.fluter.de/gazastreifen-geschichte

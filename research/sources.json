@@ -315,15 +315,6 @@
     "local_files": "projects/redesign/assets/pse_adm1.geojson"
   },
   {
-    "id": "lucide",
-    "title": "Lucide icon sources and license",
-    "url": "https://lucide.dev/license",
-    "research_access_date": "2026-10-15",
-    "used_in_slides": "1–12",
-    "archive_representation": "stored_document_or_data",
-    "local_files": "projects/redesign/assets/icons/LICENSE"
-  },
-  {
     "id": "fluter_map",
     "title": "fluter/bpb Gaza map, considered but not used in final deck",
     "url": "https://www.fluter.de/gazastreifen-geschichte",

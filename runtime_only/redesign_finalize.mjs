@@ -1,6 +1,0 @@
-import path from 'node:path';
-import { finalizePresentation } from '/root/.codex/skills/builtins/presentations/container_tools/artifact_tool_utils.mjs';
-const root='/workspace/scratch/242dd116dead/gaza/redesign';
-const skill='/root/.codex/skills/builtins/presentations';
-const result=await finalizePresentation({workspaceDir:root,candidatePath:path.join(root,'build/candidate_redesign.pptx'),finalPath:path.join(root,'output/akuf_gazastreifen_neugestaltet.pptx'),pythonExecutable:process.env.CODEX_PRIMARY_RUNTIME_PYTHON,integrityValidatorPath:path.join(skill,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(skill,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','12191695,6858000','--validate-bullet-geometry','--validate-heading-fit'],explicitTotalSlideCount:12,requiredNativeTableOwnerSlides:[],requiredNativeChartOwnerSlides:[],fontPolicy:{basis:'design',families:['Nimbus Sans','Nimbus Roman']},verifyArtifactToolImport:true,receiptPath:path.join(root,'build/final_validation.json')});
-console.log(JSON.stringify({file:result.finalPath,slideCount:result.presentationLayout?.slide_count,integrity:result.packageIntegrity?.status,imported:result.firstPartyImport?.passed}));
